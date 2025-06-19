@@ -4,7 +4,7 @@ This repository provides an example of a chained API workflow using Trello's RES
 
 ## Overview
 
-The included Postman collection (`Trello API Testing.postman_collection.json`) demonstrates a basic end-to-end workflow with the Trello API, where the output of one request is used as input for subsequent requests. This is commonly referred to as "chained" API testing.
+The included Postman collection (`Trello API Testing.postman_collection.json`) demonstrates an end-to-end workflow with the Trello API, where the output of one request is used as input for subsequent requests. This is commonly referred to as "chained" API testing.
 
 ### Workflow Steps
 
